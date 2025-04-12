@@ -1,7 +1,7 @@
 <div align="center">
-  <h2 align="center">✨ Awesome A2A (Agent2Agent Protocol) ✨</h2>
+  <h2 align="center">✨ Awesome A2A (Agent2Agent Protocol) ✨ </h2>
   <p align="center">
-    <img src="[assets/banner.png](https://github.com/user-attachments/assets/73dab1ee-dc61-4da0-b4e6-a4989feef916)" alt="a2a to build imaginative agent society" width="600">
+    <img src="https://github.com/user-attachments/assets/73dab1ee-dc61-4da0-b4e6-a4989feef916" alt="a2a to build imaginative agent society" width="600">
   </p>
   <p align="center">
      A curated list of A2A (Agent 2 Agent) Client、Server、Tools、Toturial etc.
